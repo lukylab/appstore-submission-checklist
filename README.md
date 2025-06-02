@@ -26,7 +26,7 @@ This checklist grew out of my own workflow as a way to catch and prevent App Sto
 There are two checklists in this repo:
 
 - **[Checklist for New App Submissions](CHECKLIST_NEW_APP.md):** Use this if you’re submitting a brand new app to the App Store.
-- **[Checklist for App Updates](CHECKLIST_UPDATE.md):** Use this if you’re submitting an update to an app that’s already live.
+- **[Checklist for App Updates](CHECKLIST_APP_UPDATE.md):** Use this if you’re submitting an update to an app that’s already live.
 
 Pick the one that fits your situation and work through each item before you submit.
 
