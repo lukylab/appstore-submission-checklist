@@ -1,14 +1,14 @@
-# App Store Submission Checklist
+# App Store Submission Checklists
 
-A practical checklist for iOS developers to prepare their apps for App Store Review. Based on my experience (10+ apps live in the App Store), I put this together as a way to avoid unnecessary rejections and save time.
+A set of practical checklists for iOS developers to prepare their apps (new or updates) for App Store Review and avoid common rejection reasons. Based on my experience (10+ apps live in the App Store), I put this together as a way to avoid unnecessary rejections and save time.
 
 ---
 
 ## Why this exists
 
-As an indie developer, I’ve submitted quite a few apps to the App Store. Even after 10+ launches, it’s surprisingly easy to overlook something—big or small—and lose days to a rejection that could have been prevented.
+As an indie developer, I’ve submitted quite a few apps to the App Store. Even after 10+ launches, it’s easy to overlook something—big or small—and lose days to a rejection that could have been prevented.
 
-This checklist grew out of my own workflow as a way to catch and prevent App Store review issues before hitting “Submit.” I’m sharing it in case it helps others avoid the same mistakes, especially if you’re shipping solo or on a small team.
+These checklists grew out of my own workflow as a way to catch and prevent App Store review issues before hitting “Submit.” I’m sharing it in case it helps others avoid the same mistakes, especially if you’re shipping solo or on a small team.
 
 ---
 
@@ -79,7 +79,7 @@ If you want to follow my journey or grab your own “lucky app,” visit [luckya
 
 ## Contributing
 
-This is a living checklist—if you have ideas or suggestions, please open an issue or PR. The more we share what gets our apps approved, the more we all save time and frustration.
+These are "living" checklists—if you have ideas or suggestions, please open an issue or PR. The more we share what gets our apps approved, the more we all save time and frustration.
 
 ---
 
