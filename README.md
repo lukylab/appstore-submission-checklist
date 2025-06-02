@@ -42,7 +42,7 @@ Pick the one that fits your situation and work through each item before you subm
 
 ## Check out my apps
 
-If you’re curious what I’ve built, here’s a list:
+If you’re curious what I’ve built, here are some of my apps:
 
 - [Compot: AI Assistant for iOS Developers](https://apps.apple.com/app/id6471916279)  
   100+ SwiftUI components, in-app AI help, learning resources, and templates for iOS development.
