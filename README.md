@@ -51,19 +51,19 @@ If you’re curious what I’ve built, here are some of my apps:
   All-in-one prompt manager and AI playground on your iPhone.
   
 - [Heart2Heart](https://apps.apple.com/app/id6501986735)  
-  AI-powered partner for guided, meaningful relationship conversations.
+  A privacy-first app for meaningful relationship conversations.
   
 - [Kindest – Relationship Tracker](https://apps.apple.com/app/id6453754317)  
-  Track relationship milestones, memories, and personalized insights.
+  Create actions and memories to build happy relationships.
   
 - [Locations – Travel Tracker](https://apps.apple.com/app/id6452048717)  
-  Simple app to log, organize, and revisit all your travel locations.
+  Log, organize, and revisit all your travel locations.
   
 - [Imaginarium – AI Art](https://apps.apple.com/app/id6739706784)  
   Create unique AI-powered art and images with your imagination.
   
 - [CardsAI](https://apps.apple.com/app/id6738427455)  
-  Study anything faster—smart flashcards powered by AI.
+  Create stunning cards.
   
 - [TreeKit – Tree & Plant Identifier](https://apps.apple.com/app/id6741019701)  
   Instantly identify trees and plants with a photo and AI.
@@ -79,7 +79,7 @@ If you want to follow my journey or grab your own “lucky app,” visit [luckya
 
 ## Contributing
 
-This is a living list—if you have ideas or suggestions, please open an issue or PR. The more we share what gets our apps approved, the more we all save time and frustration.
+This is a living checklist—if you have ideas or suggestions, please open an issue or PR. The more we share what gets our apps approved, the more we all save time and frustration.
 
 ---
 
