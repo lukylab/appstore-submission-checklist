@@ -11,7 +11,7 @@ Use this checklist before submitting your iOS app to the App Store for the first
 - [ ] Check that all onboarding flows are complete and free of placeholder or demo content.
 - [ ] Remove any test/demo/placeholder data from your app.
 - [ ] Provide clear Info.plist entries for all permissions (e.g., camera, location) your app requests (see samples [here](https://github.com/lukylab/ios-permissions-descriptions)).
-- [ ] All permission prompts are shown only as needed and include a clear, user-facing rationale.
+- [ ] All permission prompts are shown only as needed and include a clear, user-facing rationale (see samples [here](https://github.com/lukylab/ios-permissions-descriptions)).
 - [ ] Verify the bundle identifier in Xcode matches the identifier in App Store Connect.
 - [ ] Test app state restoration, backgrounding/foregrounding, and error handling (including simulating poor network or low storage).
 - [ ] Remove references to price or promotional terms (“free,” “discount,” etc.) in your screenshots for the App Store.
