@@ -6,7 +6,7 @@ Use this checklist before submitting your iOS app to the App Store for the first
 
 ## Xcode Project Checks
 
-- [ ] Remove all debug, test, or logging code from production builds, or mark them with #if DEBUG/#endif to hide them from prod.
+- [ ] Debug logs and features to test the app are hidden (marked with #if DEBUG/#endif to hide them from prod).
 - [ ] Ensure the app runs smoothly on all iOS versions and devices you plan to support.
 - [ ] Check that all onboarding flows are complete and free of placeholder or demo content.
 - [ ] Remove any test/demo/placeholder data from your app.
